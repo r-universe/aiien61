@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tigerhitteR"]
-	path = tigerhitteR
-	url = https://github.com/aiien61/tigerhitter
-	shallow = true
-	registered = true
